@@ -1,0 +1,11 @@
+{
+  "model": "KBLab/bert-base-swedish-cased",
+  "revision": "ce7c3424687f042f1320e0528293d492c82918c4",
+  "torch": "2.14.1+cpu",
+  "transformers": "5.22.1",
+  "python": "3.13.18",
+  "seed": 17,
+  "device": "cpu",
+  "bias_gap": 0.1360984891653061,
+  "dev_offset": 0.0
+}
