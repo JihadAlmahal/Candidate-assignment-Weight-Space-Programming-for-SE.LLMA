@@ -2,4 +2,6 @@ Open experiment.ipynb in Google Colab and choose Runtime → Run all on a CPU ru
 
 
 results/predictions.csv records every held-out decision. Positive margin means that en has the higher logit. On regression items, prediction is over the entire vocabulary. Gold log probability is always over the entire vocabulary.
+
+
 AI-usage.md describes the work performed with AI.
